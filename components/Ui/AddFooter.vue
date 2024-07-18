@@ -7,12 +7,12 @@
       </div>
       <ul>
         <li><nuxt-link to="/about">Обо мне</nuxt-link></li>
-        <li><nuxt-link to="/">Мои работы</nuxt-link></li>
-        <li><nuxt-link to="/">Вопросы и ответы</nuxt-link></li>
+        <li><nuxt-link to="/myWork">Мои работы</nuxt-link></li>
+        <li><nuxt-link to="/about">Вопросы и ответы</nuxt-link></li>
       </ul>
       <ul>
         <li><nuxt-link to="/">Направления работы</nuxt-link></li>
-        <li><nuxt-link to="/">Отзывы</nuxt-link></li>
+        <li><nuxt-link to="/reviews">Отзывы</nuxt-link></li>
         <li><nuxt-link to="/">До/После</nuxt-link></li>
       </ul>
       <ul>
